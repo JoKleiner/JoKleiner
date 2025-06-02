@@ -7,6 +7,7 @@ learning software development through real projects
 
 **🛠️ I have a Master's degree in Mechanical Engineering**
 from [KIT – Karlsruhe Institute of Technology](https://www.kit.edu)
+<br/><br/>
 
 **42 Projects – My Progress**
   Check my Progress here:
