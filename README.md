@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Jonathan Klein
 
-<!--
-**JoKleiner/JoKleiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🎓 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ I have a **Master's degree in Mechanical Engineering** from [KIT – Karlsruhe Institute of Technology](https://www.kit.edu)
+- 💻 I am currently a **student at 42 Heilbronn**, learning software development through real projects
+
+
+## 🚀 42 Projects – My Progress
+  Check my Progress here:
+  
+👉 [Check my 42 Project Tracker](https://github.com/YOURUSERNAME/42-project-tracker)
+
+You will find:
+- 📘 Description of each project
+- ✅ What I have finished
+- 🔄 What I am working on now
+
+
+## 🛠️ Skills & Tools
+
+- Programming: C, C++, Shell, Git
+
+## 📫 Contact
+
+- 📧 Email: [jonathan.klein@hotmail.de](mailto:jonathan.klein@hotmail.de)
+- 🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jonathan-klein-83554418b/)
