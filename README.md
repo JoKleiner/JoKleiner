@@ -1,9 +1,9 @@
-# Hi, I'm Jonathan Klein
+# Hi, I'm Jonathan
 
-Welcome to my GitHub profile!
-
-**💻 I am currently a student at 42 Heilbronn**
-learning software development through real projects
+- 💻 I'm currently a student at 42 Heilbronn
+- 🛠️ I worked as a Project-engineer at [APL](https://www.apl-landau.de)
+- 🎓 I did my M.Sc. in Mechanical Engineering at [KIT](https://www.kit.edu)
+- 🎓 I did my B.Eng. in Mechanical Engineering at [HTW Saar](https://studieren.htwsaar.de)
 <br/>
 
 **42 Projects – Progress:**<br/>
