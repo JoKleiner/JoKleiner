@@ -2,13 +2,13 @@
 
 Welcome to my GitHub profile!
 
-## 🎓 About Me
+**About Me**
 
 - 🛠️ I have a **Master's degree in Mechanical Engineering** from [KIT – Karlsruhe Institute of Technology](https://www.kit.edu)
 - 💻 I am currently a **student at 42 Heilbronn**, learning software development through real projects
 
 
-## 🚀 42 Projects – My Progress
+**42 Projects – My Progress**
   Check my Progress here:
   
 👉 [Check my 42 Project Tracker](https://github.com/YOURUSERNAME/42-project-tracker)
