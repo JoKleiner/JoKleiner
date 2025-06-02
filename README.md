@@ -26,4 +26,4 @@ You will find:
 ## 📫 Contact
 
 - 📧 Email: [jonathan.klein@hotmail.de](mailto:jonathan.klein@hotmail.de)
-- 🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jonathan-klein-83554418b/)
+- 🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/jonathan-klein-83554418b/)
