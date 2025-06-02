@@ -14,7 +14,6 @@ from [KIT – Karlsruhe Institute of Technology](https://www.kit.edu)
 
 
 **Skills & Tools**
-
 - Programming: C, C++, Shell, Git
 
 **Contact**
