@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 **💻 I am currently a student at 42 Heilbronn**
 learning software development through real projects
-<br/><br/>
+<br/>
 
 **42 Projects – Progress:**<br/>
   [42 Project Tracker](https://github.com/JoKleiner/42-Coding-School.git)
