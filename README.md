@@ -11,7 +11,7 @@ from [KIT – Karlsruhe Institute of Technology](https://www.kit.edu)
 
 **42 Projects – Progress:**<br/>
   [42 Project Tracker](https://github.com/JoKleiner/42-Coding-School.git)
-<br/>
+<br/><br/>
 
 **Skills & Tools**
 - Programming: C, C++, Shell, Git
