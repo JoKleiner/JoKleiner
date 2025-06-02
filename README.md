@@ -19,11 +19,11 @@ You will find:
 - 🔄 What I am working on now
 
 
-## 🛠️ Skills & Tools
+**Skills & Tools**
 
 - Programming: C, C++, Shell, Git
 
-## 📫 Contact
+**Contact**
 
 - 📧 Email: [jonathan.klein@hotmail.de](mailto:jonathan.klein@hotmail.de)
 - 🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/jonathan-klein-83554418b/)
