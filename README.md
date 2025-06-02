@@ -9,10 +9,8 @@ learning software development through real projects
 from [KIT – Karlsruhe Institute of Technology](https://www.kit.edu)
 <br/><br/>
 
-**42 Projects – My Progress**
-  Check my Progress here:
-  
-👉 [Check my 42 Project Tracker](https://github.com/JoKleiner/42-Coding-School.git)
+**42 Projects – Progress:**<br/>
+  [42 Project Tracker](https://github.com/JoKleiner/42-Coding-School.git)
 
 
 **Skills & Tools**
