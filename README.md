@@ -13,11 +13,6 @@ from [KIT – Karlsruhe Institute of Technology](https://www.kit.edu)
   
 👉 [Check my 42 Project Tracker](https://github.com/YOURUSERNAME/42-project-tracker)
 
-You will find:
-- 📘 Description of each project
-- ✅ What I have finished
-- 🔄 What I am working on now
-
 
 **Skills & Tools**
 
